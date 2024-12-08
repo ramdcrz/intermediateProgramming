@@ -1,0 +1,3 @@
+Length: 656 bytes
+Path: C:\Java Activity\JavaTutorialYouTube\src\fileHandling\SampleText.txt
+Number of words: 131
